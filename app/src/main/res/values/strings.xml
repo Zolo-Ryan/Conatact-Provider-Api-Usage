@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Setup</string>
+    <string-array name="number_types">
+        <item>Home</item>
+        <item>Mobile</item>
+        <item>Work</item>
+    </string-array>
+</resources>
